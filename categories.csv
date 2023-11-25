@@ -1,0 +1,145 @@
+domain,subdomain,genre
+Visual Arts,Painting,Abstract
+Visual Arts,Painting,Realism
+Visual Arts,Painting,Surrealism
+Visual Arts,Painting,Impressionism
+Visual Arts,Painting,Expressionism
+Visual Arts,Painting,Contemporary
+Visual Arts,Painting,Conteptual
+Visual Arts,Painting,Minimalism
+Visual Arts,Painting,New Ink Art
+Visual Arts,Drawing,Sketching
+Visual Arts,Drawing,Charcoal
+Visual Arts,Drawing,Pen and ink
+Visual Arts,Drawing,Digital drawing
+Visual Arts,Drawing,Caricature
+Visual Arts,Drawing,Technical Drawing
+Visual Arts,Sculpture,Figurative
+Visual Arts,Sculpture,Abstract
+Visual Arts,Sculpture,Kinetic
+Visual Arts,Sculpture,Environmental
+Visual Arts,Sculpture,Installation
+Visual Arts,Sculpture,Assemblage
+Visual Arts,Sculpture,Found object
+Visual Arts,Printmaking,Etching
+Visual Arts,Printmaking,Lithography
+Visual Arts,Printmaking,Screen printing
+Visual Arts,Printmaking,Linocut
+Visual Arts,Printmaking,Woodcut
+Visual Arts,Printmaking,Monotype
+Visual Arts,Photography,Landscape
+Visual Arts,Photography,Portrait
+Visual Arts,Photography,Documentary
+Visual Arts,Photography,Fashion
+Visual Arts,Photography,Still life
+Visual Arts,Photography,Conceptual
+Visual Arts,Photography,Experimental
+Performing Arts,Theatre,Drama
+Performing Arts,Theatre,Comedy
+Performing Arts,Theatre,Tragedy
+Performing Arts,Theatre,Musicals
+Performing Arts,Theatre,Improvisational
+Performing Arts,Theatre,Experimental
+Performing Arts,Theatre,Puppetry
+Performing Arts,Dance,Ballet
+Performing Arts,Dance,Contemporary
+Performing Arts,Dance,Hip-hop
+Performing Arts,Dance,Tap
+Performing Arts,Dance,Cultural/Traditional
+Performing Arts,Dance,Modern
+Performing Arts,Dance,Jazz
+Performing Arts,Dance,Ballroom
+Performing Arts,Music,Classical
+Performing Arts,Music,Jazz
+Performing Arts,Music,Rock
+Performing Arts,Music,Pop
+Performing Arts,Music,Blues
+Performing Arts,Music,Country
+Performing Arts,Music,Electronic
+Performing Arts,Music,Folk
+Performing Arts,Music,World
+Performing Arts,Music,Experimental
+Performing Arts,Opera,Grand opera
+Performing Arts,Opera,Comic opera
+Performing Arts,Opera,Chamber opera
+Performing Arts,Opera,Contemporary
+Literary Arts,Poetry,Epic
+Literary Arts,Poetry,Lyric
+Literary Arts,Poetry,Narrative
+Literary Arts,Poetry,Haiku
+Literary Arts,Poetry,Sonnet
+Literary Arts,Poetry,Free verse
+Literary Arts,Poetry,Spoken word
+Literary Arts,Prose,Fiction novels
+Literary Arts,Prose,Fiction short stories
+Literary Arts,Prose,Non-fiction essays
+Literary Arts,Prose,Non-fiction biographies
+Literary Arts,Prose,Journalism
+Literary Arts,Drama,Tragedy
+Literary Arts,Drama,Comedy
+Literary Arts,Drama,Farce
+Literary Arts,Drama,Melodrama
+Literary Arts,Drama,Monologue
+Literary Arts,Drama,Screenplay
+Applied Arts,Architecture,Residential
+Applied Arts,Architecture,Commercial
+Applied Arts,Architecture,Landscape
+Applied Arts,Architecture,Interior design
+Applied Arts,Architecture,Sustainable design
+Applied Arts,Architecture,Urban planning
+Applied Arts,Fashion Design,Haute couture
+Applied Arts,Fashion Design,Ready-to-wear
+Applied Arts,Fashion Design,Streetwear
+Applied Arts,Fashion Design,Accessories design
+Applied Arts,Fashion Design,Textile design
+Applied Arts,Industrial Design,Product design
+Applied Arts,Industrial Design,Furniture design
+Applied Arts,Industrial Design,Automotive design
+Applied Arts,Industrial Design,Toy design
+Applied Arts,Graphic Design,Typography
+Applied Arts,Graphic Design,Branding
+Applied Arts,Graphic Design,Advertising
+Applied Arts,Graphic Design,Web design
+Applied Arts,Graphic Design,UI/UX design
+Applied Arts,Graphic Design,Illustration
+Decorative Arts,Ceramics,Pottery
+Decorative Arts,Ceramics,Porcelain
+Decorative Arts,Ceramics,Earthenware
+Decorative Arts,Ceramics,Stoneware
+Decorative Arts,Ceramics,Tile making
+Decorative Arts,Textile Arts,Weaving
+Decorative Arts,Textile Arts,Embroidery
+Decorative Arts,Textile Arts,Quilting
+Decorative Arts,Textile Arts,Knitting
+Decorative Arts,Textile Arts,Crochet
+Decorative Arts,Textile Arts,Tapestry
+Decorative Arts,Glasswork,Stained glass
+Decorative Arts,Glasswork,Blown glass
+Decorative Arts,Glasswork,Fused glass
+Decorative Arts,Glasswork,Glass mosaic
+Media Arts,Film,Feature film
+Media Arts,Film,Documentaries
+Media Arts,Film,Short films
+Media Arts,Film,Animation
+Media Arts,Film,Experimental film
+Media Arts,Animation,2D animation
+Media Arts,Animation,3D animation
+Media Arts,Animation,Stop-motion
+Media Arts,Animation,Motion graphics
+Media Arts,Digital Art,Digital painting
+Media Arts,Digital Art,Sculpture
+Media Arts,Digital Art,Photography
+Media Arts,Digital Art,Generative art
+Media Arts,Digital Art,Computer graphics
+Other Forms,Street Art,Graffiti
+Other Forms,Street Art,Murals
+Other Forms,Street Art,Stencil art
+Other Forms,Street Art,Guerilla art
+Other Forms,Street Art,Yarn bombing
+Other Forms,Performance Art,Body art
+Other Forms,Performance Art,Happenings
+Other Forms,Performance Art,Endurance art
+Other Forms,Performance Art,Participatory art
+Other Forms,Installation Art,Site-specific installations
+Other Forms,Installation Art,Immersive art experiences
+Other Forms,Installation Art,Environmental art 
